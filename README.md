@@ -21,7 +21,7 @@ A continuación, instale **Homebrew** copiando y pegando el siguiente comando en
 
 1. curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install
 
-**Para confirmar que Homebrew se instaló correctamente, ejecute este comando: **
+**Para confirmar que Homebrew se instaló correctamente, ejecute este comando:**
 
 * brew doctor
 
